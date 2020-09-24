@@ -1,3 +1,6 @@
+## Change Log
+9/24/2020 - Changed default branch from Master to Main.
+
 # Dual-Universe-Smart-Home
 How to setup a basic smart home. The system automatically detects you, opens/closes the front door, turns all the lights and screens in the home. Everything turns off once you are gone.
 
